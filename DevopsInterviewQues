@@ -1,0 +1,45 @@
+Certainly! Here are ten advanced-level scenario-based interview questions for each of the tools you mentioned:
+
+### AWS:
+1. **Scenario**: Your company has a critical application running on AWS, and you need to ensure high availability. How would you design a multi-region architecture with automatic failover?
+
+2. **Scenario**: Describe the process of securely sharing sensitive data between AWS accounts and ensuring data encryption during transit and at rest.
+
+3. **Scenario**: You want to optimize your AWS costs. What strategies and tools can you use to identify cost-saving opportunities and implement cost-effective solutions?
+
+4. **Scenario**: Explain how you would set up a VPC peering connection between two VPCs in different AWS accounts while maintaining security best practices.
+
+5. **Scenario**: Your application is experiencing increased traffic, and you need to scale it dynamically. How would you set up auto-scaling policies and implement load balancing in AWS?
+
+6. **Scenario**: Discuss the differences between AWS Lambda and AWS EC2 for running code and applications, and when would you choose one over the other?
+
+7. **Scenario**: You're tasked with ensuring data backup and disaster recovery for an AWS RDS database. Describe the best practices and tools you would use to achieve this.
+
+8. **Scenario**: Your organization needs to adhere to compliance standards. Explain how AWS Identity and Access Management (IAM) can help you enforce least privilege access and audit permissions.
+
+9. **Scenario**: How would you monitor the performance and health of AWS resources using AWS CloudWatch and create custom metrics and alarms for specific use cases?
+
+10. **Scenario**: Your company wants to implement a serverless architecture for a new project. Explain the benefits and challenges of using AWS Lambda, API Gateway, and other AWS services in this context.
+
+### GIT:
+1. **Scenario**: A team member accidentally pushed sensitive information to a Git repository. Describe the steps to remove this data from the history without affecting other commits.
+
+2. **Scenario**: Explain the difference between Git rebase and Git merge and provide examples of when you would use each of these branching strategies.
+
+3. **Scenario**: How do you resolve a merge conflict in Git, and what precautions do you take to ensure a clean and accurate merge?
+
+4. **Scenario**: Your team is working on a feature branch, and you discover a critical bug in the main branch. How do you switch to the main branch, fix the bug, and then merge the changes back into your feature branch?
+
+5. **Scenario**: Discuss Git hooks and provide examples of how you can use pre-commit and post-receive hooks to enforce coding standards and automate tasks.
+
+6. **Scenario**: Explain the Gitflow workflow and the role of feature branches, release branches, and hotfix branches in managing a complex project.
+
+7. **Scenario**: Describe how Git tags work and when you would use annotated tags versus lightweight tags for version control.
+
+8. **Scenario**: Your team is collaborating on a project, and you want to ensure that changes are reviewed before merging into the main branch. Explain how you can set up a code review process using Git.
+
+9. **Scenario**: How do you track changes in a remote Git repository, and what are the commands and best practices for syncing your local repository with the remote?
+
+10. **Scenario**: Discuss the advantages and disadvantages of Git submodules and Git subrepositories, and when would you choose to use each approach for managing dependencies?
+
+(Continued in the next message for Jenkins, Docker, Kubernetes, Ansible, Prometheus, ELK stack, and CloudWatch.)
