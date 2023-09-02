@@ -1,4 +1,3 @@
-Certainly! Here are ten advanced-level scenario-based interview questions for each of the tools you mentioned:
 
 ### AWS:
 1. **Scenario**: Your company has a critical application running on AWS, and you need to ensure high availability. How would you design a multi-region architecture with automatic failover?
